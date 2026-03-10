@@ -10,3 +10,7 @@ Git revert
 Git pull
 Git branch
 Git checkout
+Git config
+
+Learn about Vim and how to edit, save and close files.
+This will be useful for writing/editing commit messages.
