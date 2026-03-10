@@ -1,0 +1,12 @@
+Learn common commands:
+
+Git status
+Git add
+Git commit
+Git log
+Git push
+Git stash
+Git revert
+Git pull
+Git branch
+Git checkout
