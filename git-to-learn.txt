@@ -1,4 +1,4 @@
-Learn common commands:
+Learn common commands step by step:
 
 Git status
 Git add
@@ -10,3 +10,5 @@ Git revert
 Git pull
 Git branch
 Git checkout
+
+
